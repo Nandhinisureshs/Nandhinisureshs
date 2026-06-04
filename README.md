@@ -42,6 +42,21 @@
 
 ---
 
+### 📊 Databases & Fundamentals
+<p align="left">
+  <!-- DBMS -->
+  <img src="https://img.shields.io/badge/DBMS-lightgrey?style=for-the-badge&logo=databricks&logoColor=black" />
+  
+  <!-- Data Structures -->
+  <img src="https://img.shields.io/badge/Data%20Structures-green?style=for-the-badge&logo=stackshare&logoColor=white" />
+  
+  <!-- MS Excel -->
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+---
+
+
 ### 🌐 Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mongodb" />
