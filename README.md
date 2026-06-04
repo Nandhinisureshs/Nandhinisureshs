@@ -1,11 +1,11 @@
 <div align="center">
   <h1> 
-    <span style="background: linear-gradient(to right, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">
+    <span style="background: linear-gradient(to right, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent; font-family: Fira Code;">
       ✨ Hey, I'm Nandhini 👋
     </span>
   </h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Designing+•+Developing+•+Innovating;Exploring+Cloud+%26+Web+Development;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+%26+SQL+Explorer+💻;Web+Development+with+React+%26+Node.js+🌐;Learning+Cloud+%26+IoT+Innovations+🚀" />
 </div>
 
 ---
@@ -32,66 +32,75 @@
 
 ### 💻 Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css" />
 </p>
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql)
+![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
 ---
 
 ### 🌐 Web Development
 <p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mongodb" />
 </p>
 
-<p align="left">
-<img src="https://img.shields.io/badge/Chart.js-Data%20Viz-pink?style=for-the-badge&logo=chartdotjs" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![Chart.js](https://img.shields.io/badge/Chart.js-pink?style=for-the-badge&logo=chartdotjs)
 
 ---
 
 ### ⚙️ DevOps & Cloud
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
 ### 🔧 Tools & Platforms
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Xilinx_logo.svg" width="48" title="Xilinx Vivado"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Tinkercad_logo.svg" width="48" title="Tinkercad"/>
-<img src="https://skillicons.dev/icons?i=leetcode" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=leetcode" width="48" title="LeetCode"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20CODE-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/XILINX%20VIVADO-red?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/TINKERCAD-orange?style=for-the-badge&logo=tinkercad&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEETCODE-yellow?style=for-the-badge&logo=leetcode&logoColor=black" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
-- **E-Commerce Platform**  
-  🔹 Built with HTML, CSS, SQL for product & order management  
 
-- **Section Wise Comparison**  
-  🔹 Student Result Analysis using JavaScript, Chart.js, HTML, CSS  
-
-- **Expense Tracker System**  
-  🔹 Daily expense management with history tracking (JavaScript, HTML, CSS)  
-
-- **Intelligent Solar-Wind Hybrid System**  
-  🔹 IoT-based energy system with adaptive fault isolation & MPPT  
+### 🛒 E-Commerce Platform
+💻 Built with **HTML** 🌐, **CSS** 🎨, and **SQL** 🗄️ for product & order management  
 
 ---
 
-## 🎓 Internships & Certifications
-![IoT](https://img.shields.io/badge/IoT%20Robotics-NSIC-blue?style=for-the-badge&logo=internetofthings)  
-![Automation](https://img.shields.io/badge/Industrial%20Automation-TNPL-green?style=for-the-badge&logo=siemens)  
-![Cloud](https://img.shields.io/badge/Cloud%20Computing-NPTEL-orange?style=for-the-badge&logo=icloud)  
-![IEEE](https://img.shields.io/badge/IEEE%20Conference-grey?style=for-the-badge&logo=ieee)  
-![Hackathon](https://img.shields.io/badge/YUGAM%202026%20Hackathon-purple?style=for-the-badge&logo=hackster)  
+### 📊 Section Wise Comparison (Student Result Analysis)
+🔹 Student Result Analysis using **JavaScript** ⚡, **Chart.js** 📈, **HTML** 🌐, **CSS** 🎨, with **Node.js** 🟢 and **Express.js** 🚀 backend  
+
+---
+
+### 💰 Expense Tracker System
+🔹 Daily expense management with history tracking using **JavaScript** ⚡, **HTML** 🌐, and **CSS** 🎨  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nandhinisureshs&theme=radical)  
-
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhinisureshs&theme=radical"/>  
+</div>
 
 ---
 
@@ -109,12 +118,12 @@
 <a href="mailto:nandhinisuresh1006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </div>
 
-📞 [8610427835](tel:8610427835)  
-
 ---
 
 <div align="center">
-  <h3>✨ Designing • Developing • Innovating ✨</h3>
+  <h3 style="background: linear-gradient(to right, #00BFFF, #00FFB3); -webkit-background-clip: text; color: transparent; font-family: Fira Code;">
+    ✨ Designing • Developing • Innovating ✨
+  </h3>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:00FFB3&height=120&section=footer"/>
