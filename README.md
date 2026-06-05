@@ -121,8 +121,10 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhinisureshs&theme=tokyo-night&hide_border=true&area=true&custom_title=Nandhini's%20Contribution%20Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhinisureshs&theme=react-dark&hide_border=true&area=true&line=FF6EC4&point=00BFFF&bg_color=0D1117&title_color=00FFB3&custom_title=Nandhini's%20Contribution%20Graph"/>
 </div>
+
+
 
 ---
 
