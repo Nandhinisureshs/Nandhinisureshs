@@ -114,17 +114,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandhinisureshs&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=FF6EC4" />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhinisureshs&theme=radical&count_private=true&hide_border=true" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhinisureshs&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0D1117&title_color=00FFB3" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhinisureshs&theme=radical&count_private=true&hide_border=true"/>
 </div>
+
 
 
 
