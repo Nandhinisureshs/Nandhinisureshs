@@ -114,8 +114,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhinisureshs&theme=radical"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhinisureshs&theme=radical&count_private=true&hide_border=true"/>
 </div>
+
 
 ---
 
