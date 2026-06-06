@@ -113,10 +113,16 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhinisureshs&theme=radical&count_private=true&hide_border=true"/>
-</div>
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nandhinisureshs&show_icons=true&theme=radical&count_private=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Nandhinisureshs&theme=radical&hide_border=true" />
+
+</div>
 
 
 
